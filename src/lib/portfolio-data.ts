@@ -1,7 +1,7 @@
 export const CONTACT = {
   email: "27-bhoomi.rastogi@fiib.edu.in",
   phone: "+91 93548 92597",
-  linkedin: "https://linkedin.com/in/bhoomi-rastogi-773933229",
+  linkedin: "https://www.linkedin.com/in/bhoomi-rastogi-773933229",
   linkedinActivity: "https://www.linkedin.com/in/bhoomi-rastogi-773933229/recent-activity/all/",
   location: "New Delhi, India",
   resume: "/files/Bhoomi_Rastogi_Resume.docx",

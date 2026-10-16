@@ -119,7 +119,7 @@ export function SocialRow({ tone = "light" }: { tone?: "light" | "dark" }) {
           href={i.href}
           aria-label={i.label}
           target={i.ext ? "_blank" : undefined}
-          rel={i.ext ? "noreferrer" : undefined}
+          rel={i.ext ? "noopener noreferrer" : undefined}
           className={`grid size-10 place-items-center rounded-full border transition-colors ${cls}`}
         >
           <i.icon className="size-4" />
