@@ -59,7 +59,7 @@ export function AboutSection() {
             <article key={p.brand} className="flex flex-col rounded-3xl border-t-4 border-primary bg-card p-8 shadow-sm transition-shadow hover:shadow-xl hover:shadow-primary/10">
               <p className="text-xs font-semibold uppercase tracking-[0.2em] text-primary">{p.brand}</p>
               <p className="mt-4 flex-1 text-lg leading-snug">{p.insight}</p>
-              <a href={CONTACT.linkedinActivity} target="_blank" rel="noopener noreferrer" className="mt-6 inline-flex items-center gap-1 text-sm font-semibold text-primary">Read the full post <ArrowUpRight className="size-4" /></a>
+              <a href={CONTACT.linkedin} target="_blank" rel="noopener noreferrer" className="mt-6 inline-flex items-center gap-1 text-sm font-semibold text-primary">Read the full post <ArrowUpRight className="size-4" /></a>
             </article>
           ))}
         </div>
