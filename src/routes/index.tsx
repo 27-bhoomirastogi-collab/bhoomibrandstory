@@ -47,9 +47,6 @@ function Home() {
           />
         </div>
         <div className="flex flex-col justify-center bg-primary px-6 py-16 text-cream md:px-14">
-          <p className="fade-up text-xs font-semibold uppercase tracking-[0.3em] text-blush">
-            Hi, I'm Bhoomi Rastogi
-          </p>
           <h1 className="fade-up mt-5 font-headline text-6xl uppercase leading-[0.9] lg:text-8xl">
             Brand &amp;
             <br />
